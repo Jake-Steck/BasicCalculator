@@ -1,0 +1,65 @@
+#display {
+    margin-top: 1%;
+    margin-left: 30%;
+    background-color: rgb(255, 255, 255);
+    width: 23.3%;
+    height: 90px;
+    font-size: 35px;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 85px;
+  }
+  
+  
+  
+  body {
+    background-color: rgb(31, 31, 31);
+  }
+  
+  .btn {
+    margin-top: 1%;
+    margin-left: 30%;
+    width: 400px;
+    height: 400px;
+    display: grid;
+    grid-template-columns: 27% 27% 25%;
+  }
+  
+  
+  .btn :hover{
+    background-color: #66ccff;
+  }
+  
+  
+  #equal {
+    background-color: #6699ff;
+  }
+  
+  #divide {
+    background-color: #6699ff;
+  }
+  
+  #multiply {
+    background-color: #6699ff;
+  }
+  
+  #subtract {
+    background-color: #6699ff;
+  }
+  
+  #add {
+    background-color: #6699ff;
+  }
+  
+  #delete {
+    background-color: #6699ff;
+  }
+  
+  #clear {
+    background-color: #0377fc;
+  }
+  
+  
+ 
+  
